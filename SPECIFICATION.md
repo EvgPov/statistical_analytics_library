@@ -24,7 +24,11 @@ my_stats_lib/
 ├── tests/
 │   ├── test_core.py
 │   ├── test_correlation.py
-│   └── ...                       
+│   ├── test_regression.py
+│   ├── test_outliers.py
+│   ├── test_streaming.py
+│   ├── test_decorators.py
+│   └── test_utils.py                 
 ├── README.md
 ├── SPECIFICATION.md              
 └── LICENSE                       
