@@ -9,7 +9,7 @@
 ## Планируемая структура проекта
 
 ```text
-my_stats_lib/
+statistical_analytics_library/
 ├── pyproject.toml               
 ├── src/
 │   └── my_stats_lib/
