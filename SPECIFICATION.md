@@ -8,11 +8,12 @@
 
 ## Планируемая структура проекта
 
+```text
 my_stats_lib/
-├── pyproject.toml
+├── pyproject.toml               
 ├── src/
 │   └── my_stats_lib/
-│       ├── init.py
+│       ├── __init__.py
 │       ├── core.py
 │       ├── correlation.py
 │       ├── regression.py
@@ -23,11 +24,11 @@ my_stats_lib/
 ├── tests/
 │   ├── test_core.py
 │   ├── test_correlation.py
-│   └── ...
+│   └── ...                       
 ├── README.md
-├── PLAN.md
-└── LICENSE
-
+├── SPECIFICATION.md              
+└── LICENSE                       
+```
 ## План реализации по модулям
 ### 1. Модуль core.py (базовые статистические функции)
 Функции:
