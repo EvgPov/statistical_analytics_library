@@ -1,0 +1,2 @@
+class StatisticError(Exception):
+    pass
